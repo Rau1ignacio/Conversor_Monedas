@@ -26,3 +26,4 @@ if __name__ == "__main__":
 
     convertir_moneda(cantidad, de_moneda, a_moneda)
 
+## Revisar como convertir mas monedas a la vez y errores que tengo en el codigo  
